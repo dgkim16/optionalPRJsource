@@ -1,0 +1,127 @@
+{
+    "ults" : [
+            {
+            "skillID" : "u0",
+            "skillName" : "ult Zero",
+            "skillType" : "damage",
+            "skillFactor" : 3.125
+            },
+            {
+            "skillID" : "u1",
+            "skillName" : "ult One",
+            "skillType" : "damage",
+            "skillFactor" : 6.0
+            },
+            {
+            "skillID" : "u2",
+            "skillName" : "ult Two",
+            "skillType" : "damage",
+            "skillFactor" : 3.0
+            },
+            {
+            "skillID" : "u3",
+            "skillName" : "ult Three",
+            "skillType" : "damage",
+            "skillFactor" : 20.091
+            },
+            {
+            "skillID" : "u4",
+            "skillName" : "ult Four",
+            "skillType" : "damage",
+            "skillFactor" : 5.125
+            }
+        ],
+    "normals" : [ 
+        {
+            "normgroup" : [ 
+                {
+                "skillID" : "n0a",
+                "skillName" : "skill Zero A",
+                "skillType" : "damage",
+                "skillFactor" : 0.5231
+                },
+                {
+                "skillID" : "n0b",
+                "skillName" : "skill Zero B",
+                "skillType" : "heal",
+                "skillFactor" : 2.012
+                }
+            ]
+        }, {
+            "normgroup" : [ 
+                {
+                "skillID" : "n1a",
+                "skillName" : "skill 1a",
+                "skillType" : "damage",
+                "skillFactor" : 1.0124
+                },
+                {
+                "skillID" : "n1b",
+                "skillName" : "skill 1b",
+                "skillType" : "damage",
+                "skillFactor" : 2.0124
+                }
+            ]
+        }, {
+            "normgroup" : [ 
+                {
+                "skillID" : "n2a",
+                "skillName" : "skill 2a",
+                "skillType" : "damage",
+                "skillFactor" : 1.0421
+                },
+                {
+                "skillID" : "n2b",
+                "skillName" : "skill 2b",
+                "skillType" : "damage",
+                "skillFactor" : 2.0412
+                }
+            ]
+        }, {
+            "normgroup" : [ 
+                {
+                "skillID" : "n3a",
+                "skillName" : "skill 3a",
+                "skillType" : "damage",
+                "skillFactor" : 1.0421
+                },
+                {
+                "skillID" : "n3b",
+                "skillName" : "skill 3b",
+                "skillType" : "damage",
+                "skillFactor" : 2.0421
+                }
+            ]
+        }, {
+            "normgroup" : [ 
+                {
+                "skillID" : "n4a",
+                "skillName" : "skill 4a",
+                "skillType" : "damage",
+                "skillFactor" : 1.0421
+                },
+                {
+                "skillID" : "n4b",
+                "skillName" : "skill 4b",
+                "skillType" : "damage",
+                "skillFactor" : 2.0142
+                }
+            ]
+        }, {
+            "normgroup" : [ 
+                {
+                "skillID" : "n5a",
+                "skillName" : "skill 5a",
+                "skillType" : "damage",
+                "skillFactor" : 1.0142
+                },
+                {
+                "skillID" : "n5b",
+                "skillName" : "skill 5b",
+                "skillType" : "damage",
+                "skillFactor" : 2.01241
+                }
+            ]
+        }
+        ]
+}

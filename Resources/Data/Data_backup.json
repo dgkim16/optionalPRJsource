@@ -1,0 +1,181 @@
+{
+    "userHash": "test",
+    "userID": "testID",
+    "userName": "testName",
+    "userChars": [
+      {
+        "isMember": false,
+        "charName": "Emilia00",
+        "charSkills" : [
+          {
+            "skillID" : 0, 
+            "skillName" : "기술0-1", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          },
+          {
+            "skillID" : 1, 
+            "skillName" : "기술0-2", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          }
+        ],
+        "charID": 0,
+        "charLevel": 1,
+        "levelExp": 0.0,
+        "charRank": 5,
+        "speed": 1.0,
+        "atk": 1.0,
+        "def": 1.0,
+        "maxHP": 10.0,
+        "currHP": 10.0,
+        "shield": 0.0,
+        "type": 1
+      },
+      {
+        "isMember": false,
+        "charName": "Emilia01",
+        "charSkills" : [
+          {
+            "skillID" : 0, 
+            "skillName" : "기술0-1", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          },
+          {
+            "skillID" : 1, 
+            "skillName" : "기술0-2", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          }
+        ],
+        "charID": 1,
+        "charLevel": 1,
+        "levelExp": 0.0,
+        "charRank": 5,
+        "speed": 1.0,
+        "atk": 1.0,
+        "def": 1.0,
+        "maxHP": 10.0,
+        "currHP": 10.0,
+        "shield": 0.0,
+        "type": 1
+      },
+      {
+        "isMember": false,
+        "charName": "Emilia02",
+        "charSkills" : [
+          {
+            "skillID" : 0, 
+            "skillName" : "기술0-1", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          },
+          {
+            "skillID" : 1, 
+            "skillName" : "기술0-2", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          }
+        ],
+        "charID": 2,
+        "charLevel": 1,
+        "levelExp": 0.0,
+        "charRank": 5,
+        "speed": 1.0,
+        "atk": 1.0,
+        "def": 1.0,
+        "maxHP": 10.0,
+        "currHP": 10.0,
+        "shield": 0.0,
+        "type": 1
+      },
+      {
+        "isMember": false,
+        "charName": "Emilia03",
+        "charSkills" : [
+          {
+            "skillID" : 0, 
+            "skillName" : "기술0-1", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          },
+          {
+            "skillID" : 1, 
+            "skillName" : "기술0-2", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          }
+        ],
+        "charID": 3,
+        "charLevel": 1,
+        "levelExp": 0.0,
+        "charRank": 5,
+        "speed": 1.0,
+        "atk": 1.0,
+        "def": 1.0,
+        "maxHP": 10.0,
+        "currHP": 10.0,
+        "shield": 0.0,
+        "type": 1
+      },
+      {
+        "isMember": false,
+        "charName": "Emilia04",
+        "charSkills" : [
+          {
+            "skillID" : 0, 
+            "skillName" : "기술0-1", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          },
+          {
+            "skillID" : 1, 
+            "skillName" : "기술0-2", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          }
+        ],
+        "charID": 4,
+        "charLevel": 1,
+        "levelExp": 0.0,
+        "charRank": 5,
+        "speed": 1.0,
+        "atk": 1.0,
+        "def": 1.0,
+        "maxHP": 10.0,
+        "currHP": 10.0,
+        "shield": 0.0,
+        "type": 1
+      },
+      {
+        "isMember": false,
+        "charName": "Emilia05",
+        "charSkills" : [
+          {
+            "skillID" : 0, 
+            "skillName" : "기술0-1", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          },
+          {
+            "skillID" : 1, 
+            "skillName" : "기술0-2", 
+            "skillType" : 0, 
+            "skillFactor" : 1.0
+          }
+        ],
+        "charID": 5,
+        "charLevel": 1,
+        "levelExp": 0.0,
+        "charRank": 5,
+        "speed": 1.0,
+        "atk": 1.0,
+        "def": 1.0,
+        "maxHP": 10.0,
+        "currHP": 10.0,
+        "shield": 0.0,
+        "type": 1
+      }
+    ]
+  }
