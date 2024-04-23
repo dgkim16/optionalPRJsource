@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7e0124b39276c0a48bf0d105b7fdbc00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - battleCanvas: {fileID: 525553002661133110, guid: 36cb2f72af668a64dad46043a3b39bd6,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
